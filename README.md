@@ -4,6 +4,7 @@
 - 🔭 Estou interessado em aprender
 - 🌱 Estudando Javascript
 - 👯 Voçê pode me encontrar no twitter @GabrielGeorde
+-
 
 
   ##
