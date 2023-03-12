@@ -1,9 +1,6 @@
 ### Olá ! Eu sou o Gabriel Georde
-
-
-- 🔭 Estou interessado em aprender
 - 🌱 Estudando Java
-- 👯 Voçê pode me encontrar no twitter @GabrielGeorde
+- 👯 Você pode me encontrar no twitter @GabrielGeorde
 
 
 
